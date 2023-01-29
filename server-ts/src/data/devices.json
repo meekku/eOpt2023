@@ -1,0 +1,82 @@
+[
+  {
+      "name": "Sähkökiuas",
+      "energyUsage": 0.1
+  },
+  {
+      "name": "Kuivauskaappi",
+      "energyUsage": 0.0333
+  },
+  {
+      "name": "Kuivausrumpu",
+      "energyUsage": 0.05
+  },
+  {
+      "name": "Uuni",
+      "energyUsage": 0.0333
+  },
+  {
+      "name": "Pyykinpesukone",
+      "energyUsage": 0.025
+  },
+  {
+      "name": "Astianpesukone, kylmävesiliitäntä",
+      "energyUsage": 0.025
+  },
+  {
+      "name": "Pyyhekuivain",
+      "energyUsage": 0.001
+  },
+  {
+      "name": "Silitysrauta",
+      "energyUsage": 0.0167
+  },
+  {
+      "name": "Sähköliesi 1 levy",
+      "energyUsage": 0.0167
+  },
+  {
+      "name": "Pölynimuri",
+      "energyUsage": 0.0167
+  },
+  {
+      "name": "Pölynimuri",
+      "energyUsage": 0.0167
+  },
+  {
+      "name": "Hiustenkuivain",
+      "energyUsage": 0.025
+  },
+  {
+      "name": "Mikroaaltouuni",
+      "energyUsage": 0.02
+  },
+  {
+      "name": "Liesituuletin",
+      "energyUsage": 0.0033
+  },
+  {
+      "name": "Televisio",
+      "energyUsage": 0.0025
+  },
+  {
+      "name": "Tietokone",
+      "energyUsage": 0.0017
+  },
+  {
+      "name": "Pelikonsoli",
+      "energyUsage": 0.0017
+  },
+  {
+      "name": "Kahvinkeitin",
+      "energyUsage": 0.01
+  },
+  {
+      "name": "Leivänpaahdin",
+      "energyUsage": 0.01
+  },
+  {
+      "name": "Tavallinen 4,5W LED-lamppu",
+      "energyUsage": 0.0001
+  }
+]

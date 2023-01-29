@@ -1,0 +1,17 @@
+POST http://localhost:3001/api/auth/sign-up
+Content-Type: application/json
+
+{
+    "username": "jjjjj",
+    "password": "lol123"
+}
+
+###
+
+POST http://localhost:3001/api/auth/sign-in
+Content-Type: application/json
+
+{
+    "username": "jjjjj",
+    "password": "lol123"
+}

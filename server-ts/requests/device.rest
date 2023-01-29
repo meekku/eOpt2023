@@ -1,0 +1,12 @@
+POST http://localhost:3001/api/device/add-device/63d4e533b4d959ea9f2e402d
+Content-Type: application/json
+
+{
+    "name": "Uuni",
+    "energyUsage": 2,
+    "energyUsagePeriod": "kWh/h",
+    "flexible": true,
+    "flexibleTime": 2,
+    "startingTime": "14:00",
+    "duration": 20
+}
